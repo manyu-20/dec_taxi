@@ -8,9 +8,9 @@
 
 ![image](https://user-images.githubusercontent.com/69662439/220888721-dce02396-27c9-45a7-bb69-199c573eec3a.png)
 
-3) Rider waller drawer
+3) Rider wallet drawer
 
-![image](https://user-images.githubusercontent.com/69662439/220888796-52ef0900-910a-4c33-a918-e1a4baf359e1.png)
+![image](https://user-images.githubusercontent.com/69662439/220890609-c8bb6dc2-cb03-4a33-8f30-f26558ff8e7b.png)
 
 4) Wallet creation
 
